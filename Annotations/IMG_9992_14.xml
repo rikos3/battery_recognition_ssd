@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>/content/drive2/My Drive/Battery_Image/IMG_9992</folder>
+  <filename>IMG_9992_14.jpeg</filename>
+  <size>
+    <width>1080</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>keyword</name>
+    <bndbox>
+      <xmin>508.00000000000006</xmin>
+      <ymin>319.0</ymin>
+      <xmax>610.0</xmax>
+      <ymax>722.0</ymax>
+    </bndbox>
+  </object>
+</annotation>

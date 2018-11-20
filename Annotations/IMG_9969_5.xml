@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>/content/drive2/My Drive/Battery_Image/IMG_9969</folder>
+  <filename>IMG_9969_5.jpeg</filename>
+  <size>
+    <width>1080</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>keyword</name>
+    <bndbox>
+      <xmin>463.0</xmin>
+      <ymin>927.0</ymin>
+      <xmax>570.0</xmax>
+      <ymax>981.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keyword</name>
+    <bndbox>
+      <xmin>316.0</xmin>
+      <ymin>929.0</ymin>
+      <xmax>439.0</xmax>
+      <ymax>977.0</ymax>
+    </bndbox>
+  </object>
+</annotation>

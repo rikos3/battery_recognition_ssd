@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>/content/drive/My Drive/Centria Univ./SSD/Battery_Image_300</folder>
+  <filename>IMG_9974_0_0_4.jpeg</filename>
+  <size>
+    <width>300</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>NI-MH</name>
+    <bndbox>
+      <xmin>5</xmin>
+      <ymin>172</ymin>
+      <xmax>96</xmax>
+      <ymax>212</ymax>
+    </bndbox>
+  </object>
+</annotation>

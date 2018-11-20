@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>/content/drive/My Drive/Centria Univ./SSD/Battery_Image/IMG_9993</folder>
+  <filename>IMG_9993_41.jpeg</filename>
+  <size>
+    <width>1080</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>keyword</name>
+    <bndbox>
+      <xmin>758.0</xmin>
+      <ymin>765.0</ymin>
+      <xmax>826.0</xmax>
+      <ymax>849.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keyword</name>
+    <bndbox>
+      <xmin>691.0</xmin>
+      <ymin>404.0</ymin>
+      <xmax>756.0</xmax>
+      <ymax>569.0</ymax>
+    </bndbox>
+  </object>
+</annotation>

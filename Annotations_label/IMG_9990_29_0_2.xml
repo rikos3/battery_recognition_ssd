@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>/content/drive/My Drive/Centria Univ./SSD/Battery_Image_300</folder>
+  <filename>IMG_9990_29_0_2.jpeg</filename>
+  <size>
+    <width>300</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>ALK</name>
+    <bndbox>
+      <xmin>15</xmin>
+      <ymin>156</ymin>
+      <xmax>138</xmax>
+      <ymax>199</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>/content/drive/My Drive/Centria Univ./SSD/Battery_Image_300</folder>
+  <filename>IMG_9977_52_0_4.jpeg</filename>
+  <size>
+    <width>300</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>3.7V</name>
+    <bndbox>
+      <xmin>119</xmin>
+      <ymin>46</ymin>
+      <xmax>225</xmax>
+      <ymax>97</ymax>
+    </bndbox>
+  </object>
+</annotation>

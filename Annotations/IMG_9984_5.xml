@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>/content/drive2/My Drive/Battery_Image/IMG_9984</folder>
+  <filename>IMG_9984_5.jpeg</filename>
+  <size>
+    <width>1080</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>keyword</name>
+    <bndbox>
+      <xmin>542.0</xmin>
+      <ymin>733.0</ymin>
+      <xmax>585.0</xmax>
+      <ymax>828.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keyword</name>
+    <bndbox>
+      <xmin>537.0</xmin>
+      <ymin>318.0</ymin>
+      <xmax>583.0</xmax>
+      <ymax>474.0</ymax>
+    </bndbox>
+  </object>
+</annotation>

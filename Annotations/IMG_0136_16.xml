@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>/content/drive2/My Drive/Battery_Image/IMG_0136</folder>
+  <filename>IMG_0136_16.jpeg</filename>
+  <size>
+    <width>1080</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>keyword</name>
+    <bndbox>
+      <xmin>392.00000000000006</xmin>
+      <ymin>845.0</ymin>
+      <xmax>423.00000000000006</xmax>
+      <ymax>902.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keyword</name>
+    <bndbox>
+      <xmin>393.0000000000001</xmin>
+      <ymin>911.0</ymin>
+      <xmax>425.00000000000006</xmax>
+      <ymax>967.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>keyword</name>
+    <bndbox>
+      <xmin>388.0</xmin>
+      <ymin>624.0</ymin>
+      <xmax>418.0</xmax>
+      <ymax>687.0</ymax>
+    </bndbox>
+  </object>
+</annotation>
