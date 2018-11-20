@@ -1,2 +1,2 @@
 # battery_recognition
-battery_recognition with SSD
+battery_recognition using SSD
